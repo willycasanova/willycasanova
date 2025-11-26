@@ -21,3 +21,9 @@
 ## 🌐 Contáctame y Sígueme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=world&logoColor=white) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@ejemplo.com)
+
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
