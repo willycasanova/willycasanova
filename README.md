@@ -8,7 +8,7 @@
 ## 🧠 Mis Áreas de Estudio y Enfoque
 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-00599C?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-FF4444?style=for-for-the-badge&logo=tensorflow&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-FF4444?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 📊 Herramientas Clave
 
@@ -20,7 +20,7 @@
 
 ## 🌐 Contáctame y Sígueme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=world&logoColor=white) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=world&logoColor=white) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@ejemplo.com)
 
 
 ### :zap: Actividad reciente
