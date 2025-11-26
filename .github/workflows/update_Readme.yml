@@ -11,9 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       
-      # Esta Action es más moderna y estable para la actividad reciente
-      - uses: JasonEtco/activity-box@v2
+      # CAMBIAR DE @v2 A @v1
+      - uses: JasonEtco/activity-box@v1 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # El título para la sección, se incluirá dentro de los marcadores
-          # Aquí podrías usar: GIST_TITLE: "Actividad reciente de Willy"
