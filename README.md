@@ -7,8 +7,8 @@
 
 ## 🧠 Mis Áreas de Estudio y Enfoque
 
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-00599C?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-FF4444?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CloudComputing](https://img.shields.io/badge/Data%20Engineer-00599C?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![DevOps](https://img.shields.io/badge/AI%20Engineer-FF4444?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 📊 Herramientas Clave
 
